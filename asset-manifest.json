@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/taskListFreeCodeCamp/static/css/main.c19c8b35.css",
+    "main.js": "/taskListFreeCodeCamp/static/js/main.06a6882e.js",
+    "static/media/fcc_primary_large.svg": "/taskListFreeCodeCamp/static/media/fcc_primary_large.2847bc12544317f79647dc18d67a0930.svg",
+    "index.html": "/taskListFreeCodeCamp/index.html",
+    "main.c19c8b35.css.map": "/taskListFreeCodeCamp/static/css/main.c19c8b35.css.map",
+    "main.06a6882e.js.map": "/taskListFreeCodeCamp/static/js/main.06a6882e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19c8b35.css",
+    "static/js/main.06a6882e.js"
+  ]
+}
